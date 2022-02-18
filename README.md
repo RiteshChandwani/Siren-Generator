@@ -30,8 +30,7 @@ The UM3561 is a low-cost, low power CMOS LSI designed for use in toy application
 includes oscillating and selector circuits, a compact sound module can be constructed with only a few additional
 components. The UM3561 contains a programmed mask ROM to electronically reproduce alarm sounds.
 
-![Pinout](https://github.com/jonathanrjpereira/UM3561-Siren-Generator/blob/master/img/pinout.png)
-![Pin Description](https://github.com/jonathanrjpereira/UM3561-Siren-Generator/blob/master/img/pindescription.png)
+
 
 - Typical Operating Voltage = 3V
 - 8-Pin DIP Package
@@ -54,8 +53,6 @@ A SPDT switch is used to turn the circuit ON & OFF.
 
 [![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3]
 
-[1.1]: https://github.com/jonathanrjpereira/Social-Media-README/blob/master/youtube.png (YouTube)
-[2.1]: https://github.com/jonathanrjpereira/Social-Media-README/blob/master/instagram.png (Instagram)
-[3.1]: https://github.com/jonathanrjpereira/Social-Media-README/blob/master/github.png (GitHub)
+
 
 
